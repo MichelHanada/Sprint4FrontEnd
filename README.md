@@ -7,7 +7,7 @@ Esta entrega é a evolução da landing page da Sprint 3 (HTML + CSS Grid): a me
 ## GitHub e Vercel
 
 GitHub: https://github.com/MichelHanada/Sprint-4-Front-End
-Vercel: 
+Vercel: https://vercel.com/fiapaulista/sprint4-front-end
 
 ## Tecnologias utilizadas
 
